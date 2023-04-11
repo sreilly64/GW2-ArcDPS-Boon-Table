@@ -165,6 +165,7 @@ LANG_KEY_ENUM(
 	BuffInvigoratedBulwark,
 	BuffStickingTogether,
 	BuffRigorousCertainty,
+	BuffFrozenWind,
 
 	PositionManual,
 	PositionScreenRelative,
@@ -342,6 +343,7 @@ private:
 		{LangKey::BuffInvigoratedBulwark, "Invigorated Bulwark"},
 		{LangKey::BuffStickingTogether, "Sticking Together"},
 		{LangKey::BuffRigorousCertainty, "Rigorous Certainty"},
+		{LangKey::BuffFrozenWind, "Frozen Wind"},
 		{LangKey::PositionManual, "manual"},
 		{LangKey::PositionScreenRelative, "screen relative position"},
 		{LangKey::PositionWindowRelative, "window relative position"},
