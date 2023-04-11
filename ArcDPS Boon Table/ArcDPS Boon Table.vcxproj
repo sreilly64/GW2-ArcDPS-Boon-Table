@@ -240,6 +240,7 @@
     <Image Include="icons\Fire_Aura.png" />
     <Image Include="icons\Frost_Aura.png" />
     <Image Include="icons\Frost_Spirit2.png" />
+    <Image Include="icons\Frozen_Wind.png" />
     <Image Include="icons\Fury.png" />
     <Image Include="icons\Griffon_Stance.png" />
     <Image Include="icons\Inspiring_Virtue.png" />

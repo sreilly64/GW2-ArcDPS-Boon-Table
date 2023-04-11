@@ -87,7 +87,7 @@
 #define ID_Rigorous_Certainty           187
 #define IDB_PNG9                        188
 #define ID_Resolution                   188
-#define ID_Rigorous_Certainty           189
+#define ID_Frozen_Wind                  189
 
 // Next default values for new objects
 // 
